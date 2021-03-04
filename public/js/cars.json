@@ -1,0 +1,32 @@
+ [
+        {
+            "nombre": "CLA Coupé",
+            "descripcion": "Impactante a primera vista, el Mercedes-Benz CLA Coupé de diseño deportivo y elegante complementa su exterior cautivante con un interior de lujo. Ven, sube a su interior, dile “Hey, Mercedes” y déjate sorprender.",
+            "imagen": "../../public/Images/sevenCarousel.jpg"
+        },
+        {
+            "nombre": "Clase B",
+            "descripcion": "Es un vehículo con un diseño inspirador y elegante, con innovadores sistemas de asistencia para la conducción que harán la experiencia de manejo mucho más segura y placentera",
+            "imagen": "../../public/Images/eightCarousel.jpg"
+        },
+        {
+            "nombre": "GLS",
+            "descripcion": "La combinación perfecta entre diseño y comodidad. Un exterior que se hace notar en el camino, se encuentra lleno de elementos interiores de primera calidad, para lograr una experiencia de viaje cómoda y lujosa.",
+            "imagen": "../../public/Images/nineCarousel.jpg"
+        },
+        {
+            "nombre": "Clase C Cabrio",
+            "descripcion": "Clase C Cabrio de Mercedes entrega el mando y la potencia para llegar donde se desee, con la elegancia y sofisticación de un vehículo de lujo.",
+            "imagen": "../../public/Images/tenCarousel.jpg"
+        },
+        {
+            "nombre": "S Sedán",
+            "descripcion": "Te aseguramos que sentarse tras el mando del nuevo Clase S Sedán 450 L, será inolvidable. El alto nivel de confort y cuidadas líneas de diseño rivalizan con su perfecta ingeniería.",
+            "imagen": "../../public/Images/elevenCarousel.jpg"
+        },
+        {
+            "nombre": "Clase G",
+            "descripcion": "La reversión de un clásico todoterreno de lujo que ha logrado mantener su línea adaptándose al paso del tiempo, incorporando los más altos estándares de confort y seguridad.",
+            "imagen": "../../public/Images/twelveCarousel.jpg"
+        }
+]
